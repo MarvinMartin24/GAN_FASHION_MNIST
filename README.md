@@ -1,10 +1,10 @@
 # GAN_FASHION_MNIST
 Fashion images Generator AI using Pytorch
-<p align="center">
-   <img width="400" height="400" src="https://user-images.githubusercontent.com/44817770/59225445-046a1e80-8bd1-11e9-86ae-02e514688f41.png">
+
+<img width="400" height="400" src="https://user-images.githubusercontent.com/44817770/59225445-046a1e80-8bd1-11e9-86ae-02e514688f41.png">
    
-   torch.Size([60000, 28, 28])
-</p>
+torch.Size([60000, 28, 28])
+
 
 
 ##  Trainning Results
