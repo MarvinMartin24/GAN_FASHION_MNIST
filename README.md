@@ -1,4 +1,4 @@
 # GAN_FASHION_MNIST
-Fashion images Generator AI using Pytorch 
+Fashion images Generator AI using Pytorch
 
-![Epoch 1:](https://drive.google.com/drive/folders/1dTiZz3oqrFYEpiO6yPCsJsY342-fCYd-?fbclid=IwAR1Gy0HSz8SZk4KicOSTsNvak5W4ZOmattXyLhSEzOatuLOF9Yff6MtDWdc)
+![fake_samples_Epoch_0](https://user-images.githubusercontent.com/44817770/59224868-ae48ab80-8bcf-11e9-93e9-6005227fb1be.png)
