@@ -73,7 +73,7 @@ torch.Size([60000, 28, 28])
    </p>
 </p>
 
- ####                                                 ...
+# ...
   
 ####    Epoch 49:
 <p align="center">
