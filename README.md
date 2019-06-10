@@ -1,7 +1,7 @@
 # GAN_FASHION_MNIST
 Fashion images Generator AI using Pytorch
 
-![Real_samples](https://user-images.githubusercontent.com/44817770/59225445-046a1e80-8bd1-11e9-86ae-02e514688f41.png)
+   ![Real_samples](https://user-images.githubusercontent.com/44817770/59225445-046a1e80-8bd1-11e9-86ae-02e514688f41.png)
 
 ## 50 Epoch Trainninng Using Pytorch
 ####    Epoch 0:
