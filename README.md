@@ -7,7 +7,7 @@ Fashion images Generator AI using Pytorch
 </p>
 
 
-## 50 Epoch Trainninng Using Pytorch
+##  Trainning Results
 ####    Epoch 0:
 <p align="center">
    <img width="300" height="300" src="https://user-images.githubusercontent.com/44817770/59224868-ae48ab80-8bcf-11e9-93e9-6005227fb1be.png">
